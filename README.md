@@ -3,7 +3,8 @@
 
 # FFmpeg 설치 
 
-[윈도우에서 FFmpeg 설치하는 방법](https://www.lainyzine.com/ko/article/how-to-install-ffmpeg-on-windows-10/) 
+- [윈도우에서 FFmpeg 설치하는 방법](https://www.lainyzine.com/ko/article/how-to-install-ffmpeg-on-windows-10/) 
+- 아카이브: https://archive.md/mLitK
 
 위 링크에서 FFmpeg 설치하는 법 따라하기 
 
